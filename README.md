@@ -71,3 +71,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
+## NOTE 
+
+gen with : pdf2html
+
+https://www.npmjs.com/package/pdf2html
+
+gen with : poppler
+
+https://poppler.freedesktop.org/
